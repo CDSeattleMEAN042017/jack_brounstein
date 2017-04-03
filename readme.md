@@ -2,7 +2,7 @@
 
 ## Week 1
 
-### Monday, March 6
+### Monday, April 3
 
 JavaScript fundamentals
 
@@ -23,7 +23,7 @@ Optional|
 Pok&#233;mon Battle|
 Evolving Syntax|
 
-### Tuesday, March 7
+### Tuesday, April 4
 
 OOP
 
@@ -39,7 +39,7 @@ Optional|
 Bind, Call, and Apply|
 
 
-### Wednesday, March 8
+### Wednesday, April 5
 
 Advanced JavaScript: Callbacks, closures, immediate functions
 
@@ -51,7 +51,7 @@ JavaScript Library|
 Button Fun|
 Math Module **GitHub**|
 
-### Thursday, March 9
+### Thursday, April 6
 
 Express: Building a web server in JavaScript
 
@@ -62,7 +62,7 @@ Assignments|
 Survey Form **GitHub**|
 
 
-### Friday, March 10
+### Friday, April 7
 
 Oh no, Mongo!
 
@@ -77,7 +77,7 @@ Message Board **GitHub**|
 
 ## Week 2
 
-### Monday, March 13
+### Monday, April 10
 
 Modularization: Turning one giant server file into several smaller files
 
@@ -88,9 +88,7 @@ Assignments|
 Modularized Mongoose|
 1955 API **GitHub**|
 
-
-
-### Tuesday, March 14
+### Tuesday, April 11
 
 Angular!
 
@@ -105,8 +103,7 @@ Optional|
 ---|
 Learn ng-filter!|
 
-
-### Wednesday, March 15
+### Wednesday, April 12
 
 Angular factories
 
@@ -115,7 +112,7 @@ Assignments|
 Products with a Factory|
 Products and Orders **GitHub**|
 
-### Thursday, March 16
+### Thursday, April 13
 
 Angular routes
 
@@ -125,7 +122,7 @@ Partials & Custom Users|
 Players and Teams **GitHub**|
 
 
-### Friday, March 17
+### Friday, April 14
 
 Full MEAN!
 
@@ -142,13 +139,13 @@ MEAN Friends **GitHub**|
 
 ## Week 3
 
-### Monday, March 20
+### Monday, April 17
 
 Assignments|
 ---|
 Login and Registration **GitHub**|
 
-### Tuesday, March 21
+### Tuesday, April 18
 
 As of now, you should have all the tools you need to pass the belt exam.  The next few days are just practicing and reinforcing this knowlege.
 
@@ -160,7 +157,7 @@ Optional|
 ---|
 Use angular cookies and/or express-session to generate a persistent user after login|
 
-### Wednesday, March 22
+### Wednesday, April 19
 
 Deployment
 
@@ -168,12 +165,12 @@ Assignments|
 ---|
 Mini-MEAN store **GitHub**|
 
-### Thursday, March 23
+### Thursday, April 20
 
 Assignments|
 ---|
 Discussion Board **GitHub**|
 
-### Friday, March 24
+### Friday, April 21
 
 BELT EXAM!
