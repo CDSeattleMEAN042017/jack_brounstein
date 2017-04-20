@@ -9,7 +9,8 @@ import { RatsListComponent } from './rats/rats-list/rats-list.component';
 import { RatsCreateComponent } from './rats/rats-create/rats-create.component';
 import { RatsDetailComponent } from './rats/rats-detail/rats-detail.component';
 
-import { RatService } from "./rats/rat.service"
+import { RatService } from "./rats/rat.service";
+import { NameFilterPipe } from './name-filter.pipe'
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { RatService } from "./rats/rat.service"
     RatsComponent,
     RatsListComponent,
     RatsCreateComponent,
-    RatsDetailComponent
+    RatsDetailComponent,
+    NameFilterPipe
   ],
   imports: [
     BrowserModule,

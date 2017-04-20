@@ -10,6 +10,7 @@ import { RatService } from "./../rat.service"
   styleUrls: ['./rats-list.component.css']
 })
 export class RatsListComponent implements OnInit {
+  search_string: string = ""
 
   constructor(private rat_service: RatService) { }
 

@@ -11,7 +11,7 @@ import { RatService } from "./../rat.service"
 })
 export class RatsCreateComponent implements OnInit {
 
-  new_rat: Rat = new Rat()
+  new_rat: Rat = new Rat("", 0)
 
   constructor(private rat_service: RatService) { }
 
@@ -20,7 +20,7 @@ export class RatsCreateComponent implements OnInit {
 
   create(){
   	this.rat_service.create(this.new_rat)
-  	this.new_rat = new Rat()
+  	this.new_rat = new Rat("", 0)
   }
 
 }
